@@ -18,8 +18,8 @@ This is the link for the [dataset](https://noisy-text.github.io/2017/emerging-ra
 
 # Sample Input
 
-- https://user-images.githubusercontent.com/50076662/110750474-8ab10a00-8268-11eb-854e-31ab3bf5d20a.png
+https://user-images.githubusercontent.com/50076662/110750474-8ab10a00-8268-11eb-854e-31ab3bf5d20a.png
 
 ## Sample Result
 
-- https://user-images.githubusercontent.com/50076662/110750474-8ab10a00-8268-11eb-854e-31ab3bf5d20a.png
+https://user-images.githubusercontent.com/50076662/110750474-8ab10a00-8268-11eb-854e-31ab3bf5d20a.png
