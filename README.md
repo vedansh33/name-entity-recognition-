@@ -22,4 +22,4 @@ This is the link for the [dataset](https://noisy-text.github.io/2017/emerging-ra
 
 ## Sample Result
 
-- https://user-images.githubusercontent.com/50076662/110749949-c7303600-8267-11eb-87da-71ce0fe2eb44.png
+- https://user-images.githubusercontent.com/50076662/110750474-8ab10a00-8268-11eb-854e-31ab3bf5d20a.png
